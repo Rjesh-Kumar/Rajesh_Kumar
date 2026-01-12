@@ -171,3 +171,7 @@ body {
 .brand {
     color: green;
 }
+
+.tech.text-muted {
+  color: #00ff00 !important;  /* Bright lime green */
+}
